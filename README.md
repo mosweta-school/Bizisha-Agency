@@ -31,6 +31,7 @@ Clean, minimal, and user-friendly interface
 - db.json (mock database)
 
 ## 📂 Project Structure
+```
 Bizisha/
 │
 ├── frontend/
@@ -49,6 +50,7 @@ Bizisha/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## ⚙️ Installation & Setup
 1. Fork the Repository
