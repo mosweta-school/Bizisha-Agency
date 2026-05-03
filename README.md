@@ -45,8 +45,8 @@ Bizisha/
 │   └── package.json
 │
 ├── backend/
-│   ├── db.json
-│   └── server.js (or json-server setup)
+│   └── db.json 
+│   
 │
 ├── .gitignore
 └── README.md
