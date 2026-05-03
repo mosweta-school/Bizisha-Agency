@@ -1,0 +1,12 @@
+function SearchBar({ search, setSearch }) {
+  return (
+    <input
+      className="w-full border rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-blue-400"
+      placeholder="Search projects..."
+      value={search}
+      onChange={e => setSearch(e.target.value)}
+    />
+  )
+}
+
+export default SearchBar
