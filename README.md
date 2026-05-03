@@ -34,7 +34,7 @@ Clean, minimal, and user-friendly interface
 ```
 Bizisha/
 │
-├── frontend/
+├── Frontend/
 │   ├── src/
 │   │   ├── components/
 │   │   │   ├── ProjectList.jsx
@@ -44,7 +44,7 @@ Bizisha/
 │   │   └── index.css
 │   └── package.json
 │
-├── backend/
+├── Backend/
 │   └── db.json 
 │   
 │
